@@ -1,0 +1,7 @@
+# Recursos adicionais para aprender sobre descida do gradiente
+
+https://math.stackexchange.com/questions/70728/partial-derivative-in-gradient-descent-for-two-variables
+http://www.moneyscience.com/pg/blog/StatAlgo/read/361152/stanford-ml-3-multivariate-regression-gradient-descent-and-the-normal-equation
+https://hbfs.wordpress.com/2012/04/24/introduction-to-gradient-descent/
+http://digitheadslabnotebook.blogspot.com.br/2011/10/machine-learning-gradient-descent.html
+https://matheusfacure.github.io/2017/02/20/MQO-Gradiente-Descendente/

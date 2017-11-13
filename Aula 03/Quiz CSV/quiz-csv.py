@@ -28,6 +28,6 @@ def add_full_name(path_to_csv, path_to_new_csv):
 # The dataset can be downloaded from this website: http://www.seanlahman.com/baseball-archive/statistics
 # We are using the file Master.csv
 
-path_to_csv = "Master.csv"
+path_to_csv = "../dados/baseball/Master.csv"
 path_to_new_csv = "Master-new.csv"
 baseball_data = add_full_name(path_to_csv, path_to_new_csv)
