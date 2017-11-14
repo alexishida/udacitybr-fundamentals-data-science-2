@@ -5,3 +5,7 @@ http://www.moneyscience.com/pg/blog/StatAlgo/read/361152/stanford-ml-3-multivari
 https://hbfs.wordpress.com/2012/04/24/introduction-to-gradient-descent/
 http://digitheadslabnotebook.blogspot.com.br/2011/10/machine-learning-gradient-descent.html
 https://matheusfacure.github.io/2017/02/20/MQO-Gradiente-Descendente/
+
+
+https://en.wikipedia.org/wiki/Ordinary_least_squares
+https://en.wikipedia.org/wiki/Gradient_descent
